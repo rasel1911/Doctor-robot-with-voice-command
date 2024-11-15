@@ -1,0 +1,155 @@
+{
+    "diabetes": [
+        "Metformin",
+        "Insulin",
+        "Glipizide"
+    ],
+    "hypertension": [
+        "Lisinopril",
+        "Atenolol",
+        "Amlodipine"
+    ],
+    "asthma": [
+        "Albuterol",
+        "Salmeterol",
+        "Fluticasone"
+    ],
+    "depression": [
+        "Fluoxetine",
+        "Sertraline",
+        "Citalopram"
+    ],
+    "arthritis": [
+        "Ibuprofen",
+        "Naproxen",
+        "Celecoxib"
+    ],
+    "cold": [
+        "Paracetamol",
+        "Cetirizine",
+        "Phenylephrine"
+    ],
+    "migraine": [
+        "Sumatriptan",
+        "Aspirin",
+        "Naproxen"
+    ],
+    "covid-19": [
+        "Remdesivir",
+        "Dexamethasone",
+        "Molnupiravir"
+    ],
+    "flu": [
+        "Oseltamivir",
+        "Zanamivir",
+        "Ibuprofen"
+    ],
+    "tuberculosis": [
+        "Isoniazid",
+        "Rifampin",
+        "Pyrazinamide"
+    ],
+    "hiv/aids": [
+        "Tenofovir",
+        "Efavirenz",
+        "Lamivudine"
+    ],
+    "heart disease": [
+        "Atorvastatin",
+        "Clopidogrel",
+        "Aspirin"
+    ],
+    "malaria": [
+        "Chloroquine",
+        "Artemether",
+        "Lumefantrine"
+    ],
+    "pneumonia": [
+        "Amoxicillin",
+        "Azithromycin",
+        "Ceftriaxone"
+    ],
+    "cancer": [
+        "Cisplatin",
+        "Doxorubicin",
+        "Tamoxifen"
+    ],
+    "epilepsy": [
+        "Carbamazepine",
+        "Valproate",
+        "Levetiracetam"
+    ],
+    "parkinson's disease": [
+        "Levodopa",
+        "Carbidopa",
+        "Ropinirole"
+    ],
+    "alzheimer's disease": [
+        "Donepezil",
+        "Rivastigmine",
+        "Memantine"
+    ],
+    "allergies": [
+        "Loratadine",
+        "Diphenhydramine",
+        "Fexofenadine"
+    ],
+    "acne": [
+        "Benzoyl Peroxide",
+        "Clindamycin",
+        "Isotretinoin"
+    ],
+    "hyperthyroidism": [
+        "Methimazole",
+        "Propylthiouracil",
+        "Iodine"
+    ],
+    "hypothyroidism": [
+        "Levothyroxine"
+    ],
+    "gout": [
+        "Allopurinol",
+        "Colchicine",
+        "Febuxostat"
+    ],
+    "psoriasis": [
+        "Methotrexate",
+        "Cyclosporine",
+        "Adalimumab"
+    ],
+    "anemia": [
+        "Ferrous Sulfate",
+        "Folic Acid",
+        "Erythropoietin"
+    ],
+    "kidney disease": [
+        "Losartan",
+        "Hydrochlorothiazide",
+        "Furosemide"
+    ],
+    "liver disease": [
+        "Ursodiol",
+        "Silymarin",
+        "Lactulose"
+    ],
+    "osteoporosis": [
+        "Alendronate",
+        "Risedronate",
+        "Calcitonin"
+    ],
+    "obesity": [
+        "Orlistat",
+        "Liraglutide",
+        "Phentermine"
+    ],
+    "anxiety": [
+        "Alprazolam",
+        "Diazepam",
+        "Lorazepam"
+    ],
+    "schizophrenia": [
+        "Risperidone",
+        "Olanzapine",
+        "Clozapine"
+    ]
+}
