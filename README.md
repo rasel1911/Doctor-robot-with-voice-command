@@ -7,9 +7,11 @@ dynamically connects to the internet to retrieve medical information and symptom
 enhancing the device’s ability to address a broad range of health concerns. In addition, the robot’s web server connectivity allows it to extend its functionality by securely accessing remote treatment resources and facilitating patient interaction through voice output, ensuring a seamless and accessible user experience. This report provides a detailed examination of the robot's architecture, including its data processing algorithms, interaction protocols, and real-time operational capabilities. Emphasis is placed on the device’s innovative approach to automated health monitoring and treatment guidance, highlighting its potential applications in both clinical and non-clinical settings. The described system represents a step forward in medical robotics, combining intelligent diagnostics with user-centered design to create a valuable tool for modern healthcare. 
 
 Features of Robot!
+
 ![image](https://github.com/user-attachments/assets/971c2f67-7636-4f36-8180-b005f3541c77)
 
 Structural representation of project work.
+
 ![image](https://github.com/user-attachments/assets/b8a7d806-fb70-470f-b73c-eb944a696dc1)
 
 
