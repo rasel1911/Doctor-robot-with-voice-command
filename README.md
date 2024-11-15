@@ -14,5 +14,10 @@ Structural representation of project work.
 
 ![image](https://github.com/user-attachments/assets/b8a7d806-fb70-470f-b73c-eb944a696dc1)
 
+Hardware diagram:
+
+![image](https://github.com/user-attachments/assets/c7c0fc8e-9899-405b-89e7-35d11eb3864a)
+
+
 
 
